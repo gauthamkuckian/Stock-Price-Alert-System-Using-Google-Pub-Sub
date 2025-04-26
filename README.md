@@ -1,6 +1,6 @@
 # Stock Price Alert System Using Google Cloud Pub/Sub
 
-![Stock Market Dashboard](static/images/pubsub.jpg)  
+![Stock Market Dashboard](static/pubsub.jpg)  
 *Real-time stock price monitoring and alert system*
 
 ## 📌 Overview
