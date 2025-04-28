@@ -1,6 +1,6 @@
 # Stock Price Alert System Using Google Cloud Pub/Sub.
 
-![System Architecture](static/pub_sub_architecture.jpg)  
+![System Architecture]()  
 *Real-time stock price monitoring and alert system*
 
 ## 📌 Overview
